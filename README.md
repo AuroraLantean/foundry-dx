@@ -11,9 +11,11 @@ Foundry consists of:
 
 ## Installation Full
 To install: ```make install```
+
 To clean then install: ```make all```
 
 To build: ```make build```
+
 To run test: ```forge test --match-path test/Counter.t.sol -vv```
 
 ## Documentation

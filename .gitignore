@@ -18,7 +18,7 @@ venv
 .encryptedKey
 
 .gas-snapshot
-.vscode/
+#.vscode/
 .DS_Store
 src/.DS_Store
 
